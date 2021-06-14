@@ -1,6 +1,6 @@
 # Machine-Learning
-Install the library using
-pip install pycaret
+Install the library using pip install pycaret
+
 PyCaret is an open-source machine learning library for Python that reduces your time from preparing the dataset to test the model.
 Using PyCaret, preparing the data is simple. We can use a function called setup from the pycaret.classification library.
 One of the main features of the PyCaret library is that you can run any machine learning model at the same time, ranging from Logistic Regression, Decision Tree, XGBoost, and many more!
